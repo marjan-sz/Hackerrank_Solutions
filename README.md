@@ -83,7 +83,7 @@ output:here,are,you
 capitalize_first_and_join first second third
 output: THIRDsecondfirst
 
-Rest of the question exist in HackeRank with the same name as the scipt. 
+Rest of the question exist in HackeRank with the same name as the scripts. 
 
 
 
