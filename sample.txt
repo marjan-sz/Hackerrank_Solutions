@@ -7,5 +7,3 @@ This article is meant to strike a balance between these two approaches. Or actua
 This is not going to be a deep dive into all the nitty-gritty details, so we’ll rely on intuition here rather than on math, and on visuals as much as possible. But as you’ll see, while certainly being a very complex topic in the details, the main mechanisms underlying LLMs are very intuitive, and that alone will get us very far here.
 
 This article should also help you get more out of using LLMs like ChatGPT. In fact, we will learn some of the neat tricks that you can apply to increase the chances of a useful response. Or as Andrei Karparthy, a well-known AI researcher and engineer, recently and pointedly said: “English is the hottest new programming language.”
-
-But first, let’s try to understand where LLMs fit in the world of Artificial Intelligence.
