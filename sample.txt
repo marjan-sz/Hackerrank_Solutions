@@ -1,0 +1,11 @@
+Thanks to Large Language Models (or LLMs for short), Artificial Intelligence has now caught the attention of pretty much everyone. ChatGPT, possibly the most famous LLM, has immediately skyrocketed in popularity due to the fact that natural language is such a, well, natural interface that has made the recent breakthroughs in Artificial Intelligence accessible to everyone. Nevertheless, how LLMs work is still less commonly understood, unless you are a Data Scientist or in another AI-related role. In this article, I will try to change that.
+
+Admittedly, that’s an ambitious goal. After all, the powerful LLMs we have today are a culmination of decades of research in AI. Unfortunately, most articles covering them are one of two kinds: They are either very technical and assume a lot of prior knowledge, or they are so trivial that you don’t end up knowing more than before.
+
+This article is meant to strike a balance between these two approaches. Or actually let me rephrase that, it’s meant to take you from zero all the way through to how LLMs are trained and why they work so impressively well. We’ll do this by picking up just all the relevant pieces along the way.
+
+This is not going to be a deep dive into all the nitty-gritty details, so we’ll rely on intuition here rather than on math, and on visuals as much as possible. But as you’ll see, while certainly being a very complex topic in the details, the main mechanisms underlying LLMs are very intuitive, and that alone will get us very far here.
+
+This article should also help you get more out of using LLMs like ChatGPT. In fact, we will learn some of the neat tricks that you can apply to increase the chances of a useful response. Or as Andrei Karparthy, a well-known AI researcher and engineer, recently and pointedly said: “English is the hottest new programming language.”
+
+But first, let’s try to understand where LLMs fit in the world of Artificial Intelligence.
